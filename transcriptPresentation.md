@@ -51,7 +51,7 @@ Hope you have enjoyed this article. In the next article, we will disuss the diff
 
 #Conclusion
 (slide reactConclusion)
-React.js is a very new, but also established library to make reusable view components which are encapsulated, sharable and easy to maintain.
+React is a very new, but also established library to make reusable view components which are encapsulated, sharable and easy to maintain.
 More and more companies are using it in their productive environments. The community is very active and extend React.js with new functionality on a daily basis.
 It’s definitely worth it to learn and understand it because more and more React.js experts are needed to build user interfaces and help established companies
 to transition from old fashioned technology to one of the hottest new view libraries currently available.
